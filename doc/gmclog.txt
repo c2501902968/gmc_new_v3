@@ -1,0 +1,24 @@
+gmclog.py 是和日志相关的文件
+
+共可以生成三种日志文件：info，debug，error文件
+文件位置在：当前的项目下生成一个log文件夹里：
+文件名分别是：
+    info-年_月_日.log
+    debug-年_月_日.log     
+    error-年_月_日.log
+
+
+# loggings = Loggings()
+# if __name__ == '__main__':
+#     loggings.info("中文test")
+#     loggings.debug("中文test")
+#     loggings.warning("中文test")
+#     loggings.error("中文test")
+
+#     logger.info('If you are using Python {}, prefer {feature} of course!',
+#                 3.6,
+#                 feature='f-strings')
+#     n1 = "cool"
+#     n2 = [1, 2, 3]
+#     logger.info('If you are using Python {n1}, prefer {n2} of course!'.format(
+#         n1=n1, n2=n2))

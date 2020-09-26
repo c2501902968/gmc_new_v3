@@ -1,0 +1,26 @@
+2020-09-26 13:50:19 | INFO | 中文test
+2020-09-26 13:50:19 | DEBUG | 中文test
+2020-09-26 13:50:19 | WARNING | 中文test
+2020-09-26 13:50:19 | ERROR | 中文test
+2020-09-26 13:50:19 | INFO | If you are using Python 3.6, prefer f-strings of course!
+2020-09-26 13:50:19 | INFO | If you are using Python cool, prefer [1, 2, 3] of course!
+2020-09-26 13:54:19 | DEBUG | xml/u14045.xml filename: u14045.xml
+2020-09-26 13:54:19 | DEBUG | list xml file under xml : []
+2020-09-26 13:56:35 | DEBUG | list xml file under xml : []
+2020-09-26 14:03:40 | DEBUG | list xml file under xml : ['xml/u140402.xml', 'xml/u14045.xml']
+2020-09-26 14:04:02 | DEBUG | list xml file under xml : ['xml/u140402.xml', 'xml/u14045.xml']
+2020-09-26 14:06:05 | DEBUG | list xml file under xml : ['xml/u140402.xml', 'xml/u14045.xml']
+2020-09-26 14:06:53 | DEBUG | list xml file under xml : []
+2020-09-26 14:07:30 | DEBUG | list xml file under xml : ['xml/u140402.xml', 'xml/u14045.xml']
+2020-09-26 14:07:39 | DEBUG | xml:xml/u140402.xml path: name/None value:u140402
+2020-09-26 14:07:39 | DEBUG | xml:xml/u14045.xml path: name/None value:u14045
+2020-09-26 14:07:39 | DEBUG |  u14045 xml file is xml/u14045.xml
+2020-09-26 14:08:01 | DEBUG | xml/u14045.xml filename: u14045.xml
+2020-09-26 14:08:01 | DEBUG | xml:xml/u14045.xml path: source/file value:/home/c/data/image/u14045.qcow2
+2020-09-26 14:08:01 | DEBUG | list xml file under xml : ['xml/u140402.xml', 'xml/u14045.xml']
+2020-09-26 14:08:37 | DEBUG | xml:xml/u140402.xml path: name/None value:u140402
+2020-09-26 14:08:37 | DEBUG | xml:xml/u14045.xml path: name/None value:u14045
+2020-09-26 14:08:37 | DEBUG |  u14045 xml file is xml/u14045.xml
+2020-09-26 14:08:58 | DEBUG | xml/u14045.xml filename: u14045.xml
+2020-09-26 14:08:58 | DEBUG | xml:xml/u14045.xml path: source/file value:/home/c/data/image/u14045.qcow2
+2020-09-26 14:08:58 | DEBUG | list xml file under xml : ['xml/u140402.xml', 'xml/u14045.xml']

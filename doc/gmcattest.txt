@@ -1,0 +1,8 @@
+gmcattest.py 主要是完成认证工作
+现阶段实现镜像的验证：
+    1 通过在数据库找到mirror_hash (基准值)
+    2 在找到镜像的位置mirror_location--确定镜像文件
+    3 对镜像文件进行hash 得到实际hash--real_hash
+    4 比较mirror_hash 和 real_hash
+        相等 ==2， trusted
+        不等 ==1， untrusted

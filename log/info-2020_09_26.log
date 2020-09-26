@@ -1,0 +1,5 @@
+2020-09-26 13:50:19 | INFO | 中文test
+2020-09-26 13:50:19 | WARNING | 中文test
+2020-09-26 13:50:19 | ERROR | 中文test
+2020-09-26 13:50:19 | INFO | If you are using Python 3.6, prefer f-strings of course!
+2020-09-26 13:50:19 | INFO | If you are using Python cool, prefer [1, 2, 3] of course!

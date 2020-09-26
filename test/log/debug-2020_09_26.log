@@ -1,0 +1,66 @@
+2020-09-26 10:35:47 | DEBUG | test/xml/u14045.xml filename: u14045.xml
+2020-09-26 10:35:47 | DEBUG | list xml file under test/xml : []
+2020-09-26 10:37:38 | DEBUG | test/xml/u14045.xml filename: u14045.xml
+2020-09-26 10:37:38 | DEBUG | list xml file under ../test/xml : ['../test/xml/u140402.xml', '../test/xml/u14045.xml']
+2020-09-26 10:39:04 | DEBUG | test/xml/u14045.xml filename: u14045.xml
+2020-09-26 10:39:04 | DEBUG | list xml file under ../test/xml : ['../test/xml/u140402.xml', '../test/xml/u14045.xml']
+2020-09-26 10:40:29 | DEBUG | test/xml/u14045.xml filename: u14045.xml
+2020-09-26 10:40:29 | DEBUG | list xml file under xml : ['xml/u140402.xml', 'xml/u14045.xml']
+2020-09-26 10:41:30 | DEBUG | xml:xml/u140402.xml path: name/None value:u140402
+2020-09-26 10:41:30 | DEBUG | xml:xml/u14045.xml path: name/None value:u14045
+2020-09-26 10:41:30 | DEBUG |  u14045 xml file is xml/u14045.xml
+2020-09-26 10:41:52 | DEBUG | xml/u14045.xml filename: u14045.xml
+2020-09-26 10:41:52 | DEBUG | xml:xml/u14045.xml path: source/file value:/home/c/data/image/u14045.qcow2
+2020-09-26 10:41:52 | DEBUG | list xml file under xml : ['xml/u140402.xml', 'xml/u14045.xml']
+2020-09-26 10:52:12 | DEBUG | xml:xml/u140402.xml path: name/None value:u140402
+2020-09-26 10:52:12 | DEBUG | xml:xml/u14045.xml path: name/None value:u14045
+2020-09-26 10:52:12 | DEBUG |  u14045 xml file is xml/u14045.xml
+2020-09-26 10:52:34 | DEBUG | xml/u14045.xml filename: u14045.xml
+2020-09-26 10:52:34 | DEBUG | xml:xml/u14045.xml path: source/file value:/home/c/data/image/u14045.qcow2
+2020-09-26 10:52:34 | DEBUG | list xml file under xml : ['xml/u140402.xml', 'xml/u14045.xml']
+2020-09-26 11:00:19 | DEBUG | xml:xml/u140402.xml path: name/None value:u140402
+2020-09-26 11:00:19 | DEBUG | xml:xml/u14045.xml path: name/None value:u14045
+2020-09-26 11:00:19 | DEBUG |  u14045 xml file is xml/u14045.xml
+2020-09-26 11:00:41 | DEBUG | xml/u14045.xml filename: u14045.xml
+2020-09-26 11:00:41 | DEBUG | xml:xml/u14045.xml path: source/file value:/home/c/data/image/u14045.qcow2
+2020-09-26 11:00:41 | DEBUG | list xml file under xml : ['xml/u140402.xml', 'xml/u14045.xml']
+2020-09-26 11:02:14 | DEBUG | xml:xml/u140402.xml path: name/None value:u140402
+2020-09-26 11:02:14 | DEBUG | xml:xml/u14045.xml path: name/None value:u14045
+2020-09-26 11:02:14 | DEBUG |  u14045 xml file is xml/u14045.xml
+2020-09-26 11:02:36 | DEBUG | xml/u14045.xml filename: u14045.xml
+2020-09-26 11:02:36 | DEBUG | xml:xml/u14045.xml path: source/file value:/home/c/data/image/u14045.qcow2
+2020-09-26 11:02:36 | DEBUG | list xml file under xml : ['xml/u140402.xml', 'xml/u14045.xml']
+2020-09-26 11:03:09 | DEBUG | xml:xml/u140402.xml path: name/None value:u140402
+2020-09-26 11:03:09 | DEBUG | xml:xml/u14045.xml path: name/None value:u14045
+2020-09-26 11:03:09 | DEBUG |  u14045 xml file is xml/u14045.xml
+2020-09-26 11:03:31 | DEBUG | xml/u14045.xml filename: u14045.xml
+2020-09-26 11:03:31 | DEBUG | xml:xml/u14045.xml path: source/file value:/home/c/data/image/u14045.qcow2
+2020-09-26 11:03:31 | DEBUG | list xml file under xml : ['xml/u140402.xml', 'xml/u14045.xml']
+2020-09-26 11:03:38 | DEBUG | xml:xml/u140402.xml path: name/None value:u140402
+2020-09-26 11:03:38 | DEBUG | xml:xml/u14045.xml path: name/None value:u14045
+2020-09-26 11:03:38 | DEBUG |  u14045 xml file is xml/u14045.xml
+2020-09-26 11:04:00 | DEBUG | xml/u14045.xml filename: u14045.xml
+2020-09-26 11:04:00 | DEBUG | xml:xml/u14045.xml path: source/file value:/home/c/data/image/u14045.qcow2
+2020-09-26 11:04:00 | DEBUG | list xml file under xml : ['xml/u140402.xml', 'xml/u14045.xml']
+2020-09-26 11:05:35 | DEBUG | xml:xml/u140402.xml path: name/None value:u140402
+2020-09-26 11:05:35 | DEBUG | xml:xml/u14045.xml path: name/None value:u14045
+2020-09-26 11:05:35 | DEBUG |  u14045 xml file is xml/u14045.xml
+2020-09-26 11:05:58 | DEBUG | xml/u14045.xml filename: u14045.xml
+2020-09-26 11:05:58 | DEBUG | xml:xml/u14045.xml path: source/file value:/home/c/data/image/u14045.qcow2
+2020-09-26 11:05:58 | DEBUG | list xml file under xml : ['xml/u140402.xml', 'xml/u14045.xml']
+2020-09-26 11:06:04 | DEBUG | insert_vm u14045
+2020-09-26 11:06:04 | DEBUG | insert_vm u140102
+2020-09-26 11:06:04 | DEBUG | update vm-u140102 delete_at
+2020-09-26 11:06:04 | DEBUG | update vm-u140102 deleted
+2020-09-26 11:06:04 | DEBUG | insert_vm u140102
+2020-09-26 11:06:04 | DEBUG | update vm-u14045 vm_status active 
+2020-09-26 11:06:04 | DEBUG | vm-u14045 vm_status: ('active',) 
+2020-09-26 11:06:04 | DEBUG | update vm-u14045 trusted 
+2020-09-26 11:06:04 | DEBUG | vm-u14045 trusted: ('UnTrusted',) 
+2020-09-26 11:06:04 | DEBUG | update vm-u14045 location
+2020-09-26 11:06:04 | DEBUG | vm-u14045 mirror_location: ('/home/c/data/gmc/u14045.xml',) 
+2020-09-26 11:06:04 | DEBUG | update vm-u14045 mirror's hash
+2020-09-26 11:06:04 | DEBUG | vm-u14045 mirror_hash: ('f03110bc49cfb705b9ced95607a9ec44',) 
+2020-09-26 11:06:04 | DEBUG | delete vm-u14045
+2020-09-26 11:06:04 | DEBUG | delete all vm
+2020-09-26 11:06:04 | ERROR | Error: display_vm fail

@@ -1,0 +1,31 @@
+与文件相关的操作：
+
+get_file_md5(self, filename):
+    description: 对文件进行md5加密
+    param : filename:文件的名字
+    return:文件的md5的hash值
+        
+get_xml_file_list(self, path):  
+    description: 获取path路径下该文件及其子文件夹下的所有xml文件
+    param : path:xml文件的路径
+    return :xml文件列表
+
+find_guest_xml(self, xml_file_list, guest_name):        
+    description: 根据guest_name找到相应的xml文件
+    param :
+        xml_file_list:xml文件列表
+        guest_name:虚拟机名字
+    return: 得到对应的xml文件
+
+get_xml_content(self, xml, path, subpath=None):
+    description:  获取xml文件里定义的某一个label的内容
+        
+get_file_name(self, filename):   
+    description: 在filename（绝对路径）中获取文件名字
+    param:filename:（绝对路径）
+    return: 文件名
+
+write_measure_list(self, value):
+    description: 将值添加到度量列表
+        
+        

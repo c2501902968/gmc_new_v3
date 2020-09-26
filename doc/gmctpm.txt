@@ -1,0 +1,23 @@
+与tpm相关操作：
+涉及文件：
+    gmctpm.py
+    tpm_operation.c
+0 先决条件
+    tpm 环境：
+    tpm1.2
+        软件TPM_emulator :安装过程： https://shimo.im/docs/NZfRC4UkbY8oMp8Y
+        硬件TPM
+    Tss：   
+        trousers : 源码安装
+
+1 编译：生成 tpm_operation
+    gcc tpm_operation.c -o tpm_operation -ltspi
+    
+2 使用：
+    ./tpm_operation -g 12  --获取pcr12的值，默认存在 /home/c/data/gmc_new_v3/Measure/history_pcr_value
+    ./tpm_operation -g 12 -path /home/c/data -获取pcr12的值并存在/home/c/data/history_pcr_value
+    ./tpm_operation -p 12  --将默认值扩展进PCR12
+    ./tpm_operation -p 12 -v advf  --将值advf扩展进advf
+
+3 gmctpm.py： 
+    调用tpm_opeartion，执行pcr_read 和 pcr_extend操作
